@@ -1,0 +1,59 @@
+body{
+    color:#ffffff;
+    text-align:center;
+    font-size: 60px;
+    background-color:#2f356d;
+    }
+    
+    p{
+    color:#ffffff;
+    text-align:center;
+    }
+    
+    .imagem1{
+    width: 600px
+    }
+    
+    .imagem2{
+    width: 400px;
+    }
+    
+    .imagem3{
+    width: 430px;
+    }
+    
+    .imagem4{
+    width: 400px;
+    }
+    .img1{
+    height: 485px;
+    float:right;
+    
+    }
+    .img2{
+    height: 485px;
+    float:left;
+    }
+    
+    .meio{
+    width: 100%;
+    border:solid red 1px;
+    display: flex;
+    flex-direction: row;
+    }
+    
+    .esquerda{
+    border:solid red 1px;
+    width: 33%;
+    }
+    
+    .centro{
+    width: 34%;
+    border:solid red 1px;
+    
+    }
+    .direita{
+    border:solid red 1px;
+    width: 33%;
+    }
+    
